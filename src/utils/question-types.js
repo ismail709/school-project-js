@@ -1,0 +1,5 @@
+export const QUESTION_TYPES = {
+  MULTIPLE_CHOICE: 0,
+  TRUE_FALSE: 1,
+  TEXT: 2,
+};

@@ -53,3 +53,9 @@
   - Consecutive successful quizes
   - Don't go back bonus
   - Don't change the answer bonus
+
+## Stylistic Features
+
+- background change by time passage
+- background animations ( svg patterns )
+- cards flip
